@@ -1,0 +1,10 @@
+# .gitignore
+vendor/
+.env
+.phpunit.result.cache
+node_modules/
+*.log
+.DS_Store
+.idea/
+.vscode/
+coverage/
